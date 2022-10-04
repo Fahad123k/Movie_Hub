@@ -178,12 +178,12 @@ ul {
     .navbar{
         /* display: flex;
         flex-direction: column; */
-        margin-top: -10px;
-        height: 23%;
+        margin-top: -20px;
+        height: 33%;
 
     }
     .container-fluid{
-        margin-top: 35px;
+        margin-top: 55px;
         display: flex;
         flex-direction: column;
         justify-content: center;
