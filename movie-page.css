@@ -1,0 +1,54 @@
+
+* {
+    /* color: white; */
+}
+
+.card-title {
+    color: rgb(215, 163, 115);
+}
+
+#movie-subdetails {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+
+#movie-subdetails>span {
+    margin-right: 1rem;
+}
+
+#movie-poster {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#movie-details-container {
+    background-color: transparent !important;
+}
+
+#movie-subDetails-container {
+    min-height: 10rem;
+}
+
+#imdb-rating {
+    color: rgba(245, 197, 24, 1)
+}
+
+#movie-poster {
+    min-height: 10rem;
+}
+
+#movie-plot {
+    color: rgba(255, 255, 255, 0.9)
+}
+
+.extra-details-title {
+    color: white!important;
+}
+
+.extra-details-value {
+    color: rgba(31, 78, 206, 0.822);
+}
+
