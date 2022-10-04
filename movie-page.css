@@ -4,6 +4,8 @@
 }
 
 .card-title {
+    /* margin-left: 50px; */
+    /* margin-top: 120px; */
     color: rgb(215, 163, 115);
 }
 
@@ -19,6 +21,7 @@
 }
 
 #movie-poster {
+    /* margin-top: 20px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,10 +29,13 @@
 
 #movie-details-container {
     background-color: transparent !important;
+ 
 }
 
 #movie-subDetails-container {
     min-height: 10rem;
+    /* display:flex; */
+  
 }
 
 #imdb-rating {
@@ -37,7 +43,9 @@
 }
 
 #movie-poster {
+    /* margin-top: 150px; */
     min-height: 10rem;
+   
 }
 
 #movie-plot {
@@ -52,3 +60,6 @@
     color: rgba(31, 78, 206, 0.822);
 }
 
+/* .like-container{
+    margin-top: 120px;
+} */

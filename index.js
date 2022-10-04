@@ -474,10 +474,11 @@ function addMoviePageElements() {
         return 'inactive';
 
     })();
+
     const movieDetails = document.querySelector('#movie-details-container');
     movieDetails.innerHTML = "";
     movieDetails.innerHTML = `
-    <div class="row g-0">
+    <div class="row g-0 movie-details-container">
     <div class="col-md-4" id="movie-poster">
        
     <img src="${moviePoster} class="img-fluid  mx-auto d-block rounded-start" alt="...">
