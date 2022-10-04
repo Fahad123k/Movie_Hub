@@ -20,11 +20,11 @@ Javascript, HTML, CSS...
 
 ## Samples
 
-![App samples](./assets/samples/ss1.png)
+<!-- ![App samples](./assets/samples/ss1.png)
 ![App samples](./assets/samples/ss2.png)
 ![App samples](./assets/samples/ss6.png)
 ![App samples](./assets/samples/ss3.png)
 ![App samples](./assets/samples/ss4.png)
-![App samples](./assets/samples/ss5.png)
+![App samples](./assets/samples/ss5.png) -->
 
 ## Project link
