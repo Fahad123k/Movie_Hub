@@ -28,3 +28,4 @@ Javascript, HTML, CSS...
 ![App samples](./assets/samples/ss5.png) -->
 
 ## Project link
+[https://fahad123k.github.io/Movie_Hub/]
