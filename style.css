@@ -201,6 +201,15 @@ ul {
     #movie-details-container{
         margin-top: 300px;
     }
+    .noResults img{
+        width: 40%;
+
+    }
+    .noResults{
+        margin-top: 100px;
+        /* margin: 10px 10px 10px; */
+        
+    }
     
 }
 
