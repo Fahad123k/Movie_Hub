@@ -1,3 +1,4 @@
+// Fetching html elemets
 const myKey = "39157e45";
 const searchContainer = document.querySelector('#searchContainer');
 const searchInput = document.querySelector('.search-input');
@@ -11,6 +12,7 @@ const deleteFavButton = document.querySelector('#deleteFav');
 const favListContainer = document.querySelector("#list-container");
 const favMsgContainer = document.querySelector('.favorite-msg-container');
 
+// array and strings
 let xhrRequest;
 let favList = [];
 let newFavList = [];

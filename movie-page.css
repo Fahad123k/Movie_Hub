@@ -1,4 +1,3 @@
-
 * {
     /* color: white; */
 }
@@ -29,13 +28,13 @@
 
 #movie-details-container {
     background-color: transparent !important;
- 
+
 }
 
 #movie-subDetails-container {
     min-height: 10rem;
     /* display:flex; */
-  
+
 }
 
 #imdb-rating {
@@ -45,7 +44,7 @@
 #movie-poster {
     /* margin-top: 150px; */
     min-height: 10rem;
-   
+
 }
 
 #movie-plot {
@@ -53,7 +52,7 @@
 }
 
 .extra-details-title {
-    color: white!important;
+    color: white !important;
 }
 
 .extra-details-value {
